@@ -9,12 +9,7 @@
                 background:      -o-radial-gradient(#FFFFFF, #68BEFB);
                 background:         radial-gradient(#FFFFFF, #68BEFB);
             }
- .photo
- {
- top:180px;
- left:200px;
 
- }
             #start{
                 text-align:center;
                 width:1024px;
@@ -33,7 +28,7 @@
  
             .step{
                 text-align:center;
-                width:1024px;
+            
                 font-size:80px;
             }
  
